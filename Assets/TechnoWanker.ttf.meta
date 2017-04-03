@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7030abd645331b848b6401a7a869feab
+timeCreated: 1490791810
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Techno Wanker
+  fontNames:
+  - Techno Wanker
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
